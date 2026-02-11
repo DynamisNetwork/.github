@@ -41,14 +41,14 @@ The core innovation is the **Sheaf Gatekeeper**: a topological verification laye
 
 Dynamis is built on six original research papers:
 
-| # | Title | Status |
+| # | Description | Status |
 |---|-------|--------|
 | I | Topos Semantics for Agentic Reasoning | [Published on Zenodo](https://zenodo.org/records/18445406) |
-| II | Temporal Logic and Proof of History | In review |
-| III | Inventio: Constructive Agent Design | In review |
-| IV | Realize: From Theory to Implementation | In review |
-| V | Learning: Neural Sheaf Diffusion | In review |
-| VI | Invariance: Semantic Hardness via Topological Invariants | In review |
+| II | Temporal Logic and Proof of History | Research Draft |
+| III | Inventio: Constructive Agent Design | Research Draft |
+| IV | Realize: From Theory to Implementation | Research Draft |
+| V | Learning: Neural Sheaf Diffusion | Research Draft |
+| VI | Invariance: Semantic Hardness via Topological Invariants | Research Draft |
 
 ---
 
@@ -56,7 +56,7 @@ Dynamis is built on six original research papers:
 
 **Runtime:** Java 25, Quarkus 3.30, Virtual Threads
 **Cryptography:** Dilithium-3 (Panama FFM native), BLAKE3
-**AI/ML:** Sheaf Neural Networks, ONNX Runtime, Sheaf Laplacian
+**AI/ML:** Sheaf Neural Networks, ONNX Variant, Sheaf Laplacian
 **Agents:** Rust / AssemblyScript / Zig compiled to WebAssembly
 **Verification:** TLA+ (TLC + Apalache model checkers)
 **Infrastructure:** Docker, Kubernetes, cloud-agnostic
